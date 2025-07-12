@@ -22,17 +22,13 @@ A Streamlit-based application that uses RAG (Retrieval-Augmented Generation) to 
  Installation
 
 1. Clone the repository:
-   ```bash
-   git clone <your-repository-url>
-   cd RAG\ application
-   ```
-
-2. Install dependencies:
+   
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Create a `.env` file in the project root and add your OpenAI API key:
+4. Create a `.env` file in the project root and add your OpenAI API key:
    ```env
    OPENAI_API_KEY=your_api_key_here
    ```
