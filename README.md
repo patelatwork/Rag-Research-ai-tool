@@ -80,4 +80,6 @@ Feel free to:
 - Submit Pull requests
 - Suggest improvements
 
+<img width="1713" height="726" alt="Screenshot 2025-07-12 195025" src="https://github.com/user-attachments/assets/59e32464-f216-4d94-b4dc-091513247b2f" />
+
 
