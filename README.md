@@ -82,4 +82,5 @@ Feel free to:
 
 <img width="1713" height="726" alt="Screenshot 2025-07-12 195025" src="https://github.com/user-attachments/assets/59e32464-f216-4d94-b4dc-091513247b2f" />
 
+<img width="1693" height="573" alt="Screenshot 2025-07-12 195106" src="https://github.com/user-attachments/assets/ceef8702-794f-4f22-9386-0274e4f0022b" />
 
